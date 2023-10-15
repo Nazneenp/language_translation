@@ -25,6 +25,7 @@ It's recommended to create a virtual environment to isolate your project's depen
 
 ```bash
 python -m venv myenv
+```
 
 3. Activate the virtual environment:
 
