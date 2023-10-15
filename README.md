@@ -1,9 +1,6 @@
-# language_translation
-English to French and English to German Machine Translation using Transformers
-
 # Language Translation Web App
 
-This Flask web application allows users to translate English sentences to French and Spanish using Hugging Face's Transformers library. It provides a simple user interface for language translation.
+This Flask web application allows users to translate English sentences to French and German using Hugging Face's Transformers library. It provides a simple user interface for language translation.
 
 ## Features
 
