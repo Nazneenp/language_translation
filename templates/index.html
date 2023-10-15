@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Language Translation</title>
+</head>
+<body>
+    <h1>Language Translation</h1>
+    <form action="/translate" method="POST">
+        <label for="input_sentence">Enter a sentence:</label>
+        <input type="text" name="input_sentence" id="input_sentence">
+        <label for="target_language">Select target language:</label>
+        <select name="target_language" id="target_language">
+            <option value="French">French</option>
+            <option value="German">German</option>
+        </select>
+        <input type="submit" value="Translate">
+    </form>
+</body>
+</html>
