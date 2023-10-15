@@ -31,14 +31,17 @@ python -m venv myenv
 On Windows:
 ```bash
 myenv\Scripts\activate
+```
 
 On macOS and Linux:
 ```bash
 source myenv/bin/activate
+```
 
-Install the required libraries within the virtual environment:
+4. Install the required libraries within the virtual environment:
 ```bash
 pip install Flask transformers torch sentencepiece
+```
 
 ## Customizing Translations
 You can extend this project to support additional languages by adding new translation models and updating the HTML form to include the new languages.
