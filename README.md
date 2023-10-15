@@ -4,8 +4,8 @@ This Flask web application allows users to translate English sentences to French
 
 ## Features
 
-- Translate English sentences to French and German.
-- Dynamically update the translation result on the same page.
+This Flask web application allows users to translate English sentences to French and Spanish. It provides a user-friendly interface where users can input a sentence, select a target language, and click "Translate" to view the translation result on a new page.
+
 
 ## Requirements
 
